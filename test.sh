@@ -1,0 +1,3 @@
+echo `date +%H:%M:%S`
+
+exit 0
